@@ -1,0 +1,17 @@
+{
+  "name": "@ramakanthvattipally/learning-to-package",
+  "version": "1.0.1",
+  "description": "This is for creating the package, while learning NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ramakanth",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "repository": {
+    "url": "https://github.com/Ramakanthvattipally/learning-to-package.git"
+  }
+}
